@@ -1,5 +1,4 @@
 import SideNav from "../ui/dashboard/sidenav";
-import { Metadata } from "next";
 
 export const experimental_ppr = true;
 
